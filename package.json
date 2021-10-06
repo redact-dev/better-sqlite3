@@ -1,6 +1,6 @@
 {
   "name": "@redact-dev/better-sqlite3",
-  "version": "7.4.4",
+  "version": "7.4.5",
   "description": "The fastest and simplest library for SQLite3 in Node.js.",
   "homepage": "http://github.com/redact-dev/better-sqlite3",
   "author": "johnpyp <johnpyp.dev@gmail.com>",
